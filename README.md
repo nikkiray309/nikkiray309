@@ -9,10 +9,9 @@
 
 - ⚡ Fun fact - **I love playing gacha games on my free time**
 
-<h3 align="left">Connect with me via:</h3>
-<p align="left">
+<h3 align="center">Connect with me via:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/nikkiray309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikkiray309" height="30" width="40" /></a>
-  
 <a href="https://kaggle.com/nikkiray309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikkiray309" height="30" width="40" /></a>
 </p>
 
